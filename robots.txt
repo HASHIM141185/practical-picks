@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://HASHIM141185.github.io/practical-picks/sitemap.xml
